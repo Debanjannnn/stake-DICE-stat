@@ -2,7 +2,7 @@
   <h1>STAKE_DICE_STAT</h1>
   <p>The <strong>Martingale Rule</strong> is a common strategy used to cover losses in gambling. Here’s how it works:</p>
   <ul>
-    <li>If you win a bet, you don't keep the bet amount the same.</li>
+    <li>If you win a bet, you keep the bet amount the same.</li>
     <li>If you lose, you keep doubling the bet amount until you win.</li>
   </ul>
   <p><strong>Note:</strong> This strategy does not guarantee a win every time. Gambling is inherently risky, and it is advised not to gamble.</p>
